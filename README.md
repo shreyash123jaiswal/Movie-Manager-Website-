@@ -6,11 +6,10 @@ A simple movie search and watchlist manager application built with Java and Swin
 
 ## Preview
 
-### Search Page
-![Search Page](previewSearch.png)
-
-### Watchlist Page
-![Watchlist Page](previewWatchlist.png)
+<p align="center">
+  <img src="previewSearch.png" alt="Search Page" width="45%" />
+  <img src="previewWatchlist.png" alt="Watchlist Page" width="45%" />
+</p>
 
 ## Features
 
@@ -43,3 +42,4 @@ This application uses the following APIs:
 - Gson (for parsing JSON)
 - java-dotenv (for managing environment variables)
   
+
